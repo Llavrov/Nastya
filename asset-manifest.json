@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Nastya/static/css/main.b7a9a46d.css",
+    "main.js": "/Nastya/static/js/main.d48538fd.js",
+    "static/media/model-work01.jpg": "/Nastya/static/media/model-work01.abb59c87b13e0ab3f3c2.jpg",
+    "static/media/model-work02.jpg": "/Nastya/static/media/model-work02.a3e7b1231502f50e9a13.jpg",
+    "static/media/howWork.jpg": "/Nastya/static/media/howWork.3b8749b6f1ba2252d4f1.jpg",
+    "static/media/nastya-model-first.jpg": "/Nastya/static/media/nastya-model-first.8eb6cb3f4e8a810f6363.jpg",
+    "static/media/model03.jpg": "/Nastya/static/media/model03.dd5bc259586c1c4ac47e.jpg",
+    "static/media/gallery03.jpg": "/Nastya/static/media/gallery03.302aa5808e2d9b2d38b0.jpg",
+    "static/media/model01.jpg": "/Nastya/static/media/model01.b975cda582301fa1b6a2.jpg",
+    "static/media/model04.jpg": "/Nastya/static/media/model04.fde862ba538cb9198127.jpg",
+    "static/media/model02.jpg": "/Nastya/static/media/model02.920eff5572e51ce5abfa.jpg",
+    "static/media/gallery01.jpg": "/Nastya/static/media/gallery01.4abedc109c60636e9b58.jpg",
+    "static/media/gallery02.jpg": "/Nastya/static/media/gallery02.f8e8260b178f4250530f.jpg",
+    "index.html": "/Nastya/index.html",
+    "main.b7a9a46d.css.map": "/Nastya/static/css/main.b7a9a46d.css.map",
+    "main.d48538fd.js.map": "/Nastya/static/js/main.d48538fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7a9a46d.css",
+    "static/js/main.d48538fd.js"
+  ]
+}
