@@ -1,0 +1,127 @@
+.container {
+    width: 100vw;
+    background: white;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 1300px;
+    color: #231E26;
+    font-family: 'Tenor Sans', sans-serif;
+    background: white;
+}
+
+.paragraph {
+    font-size: 42px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.points {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.points li {
+    width: 370px;
+    height: 215px;
+    border: 1px solid;
+    border-radius: 10px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.points li:nth-child(2),
+.points li:nth-child(3) {
+    background: #231E26;
+    border: 1px solid white;
+    color: white;
+}
+
+.title {
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border-left: 1px solid rgba(0, 0, 0, 0.6);
+    border-right: 1px solid rgba(0, 0, 0, 0.6);
+    /*margin-bottom: 100px;*/
+    font-weight: normal;
+    padding: 40px;
+    margin-bottom: 200px;
+}
+
+.thead {
+    font-size: 32px;
+    text-align: left;
+}
+
+.thead tr th {
+    font-weight: normal;
+    border-right: 1px solid rgba(0, 0, 0, 0.6);
+    padding: 0 40px;
+}
+
+.table tbody {
+    font-size: 24px;
+    text-align: left;
+}
+
+.table tbody tr td{
+    padding: 20px 40px;
+    border-right: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.table tbody tr:nth-child(2){
+    border-top: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.price {
+    margin-top: 80px;
+    text-align: center;
+    font-size: 38px;
+}
+
+.buttonGreen {
+    font-size: 22px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+    width: 290px;
+    height: 70px;
+
+    background: linear-gradient(91.67deg, rgba(28, 63, 58, 0.8) 1.15%, rgba(28, 63, 58, 0.8) 58.11%, #1C3F3A 99.21%);
+    border-radius: 35px;
+
+    margin: 40px auto 10px;
+}
+
+
+.buttonWhite {
+    font-size: 22px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 290px;
+    height: 70px;
+
+    margin: 10px auto 20px;
+
+    border-radius: 35px;
+    border: 1px solid black;
+}

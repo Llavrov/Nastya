@@ -1,0 +1,34 @@
+.container {
+    width: 100%;
+    height: 360px;
+    background: #231E26;
+    position: relative;
+}
+
+.title {
+    padding: 70px 0 60px;
+    text-align: center;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 36px;
+    color: white;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.menu li {
+    margin: 0 16px;
+}
+
+.logo {
+    font-family: 'Open Sans', sans-serif;
+    color: #666666;
+    font-size: 16px;
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+}

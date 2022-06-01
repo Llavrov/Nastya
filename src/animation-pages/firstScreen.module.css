@@ -1,0 +1,84 @@
+.container {
+    width: 100vw;
+    position: relative;
+    overflow: hidden;
+}
+
+.background {
+    width: 50%;
+    height: 100vh;
+    position: absolute;
+    background: #231E26;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.textContainer {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #231E26;
+    z-index: 100;
+}
+
+.text {
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 120px;
+    color: white;
+    animation: textApperance 1s;
+}
+
+.box {
+    width: 300vw;
+    height: 300vw;
+    text-align: center;
+    background: #231E26;
+    border-radius: 50%;
+    position: absolute;
+    left: 0%;
+    top: 50vh;
+    transform: translate(-50%, -50%);
+    animation: endAnime 3s ease-out;
+    opacity: 0;
+    z-index: 3;
+}
+
+@keyframes endAnime {
+    0% {
+        opacity: 1;
+        border-radius: 50%;
+    }
+    50% {
+        border-radius: 45%;
+    }
+    60% {
+        border-radius: 40%;
+    }
+    70% {
+        border-radius: 30%;
+    }
+    80% {
+        border-radius: 0;
+        opacity: 1;
+        left: -100%;
+    }
+    100% {
+        left: -100%;
+        opacity: 0;
+    }
+}
+
+@keyframes textApperance {
+    from {
+        opacity: 0.4;
+        transform: translateX(-10%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0%);
+    }
+
+}
