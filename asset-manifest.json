@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nastya/static/css/main.2bb7feac.css",
-    "main.js": "/Nastya/static/js/main.155a5779.js",
+    "main.css": "/Nastya/static/css/main.8d187863.css",
+    "main.js": "/Nastya/static/js/main.3bbc1bd7.js",
     "static/media/model-work01.jpg": "/Nastya/static/media/model-work01.abb59c87b13e0ab3f3c2.jpg",
     "static/media/model-work02.jpg": "/Nastya/static/media/model-work02.a3e7b1231502f50e9a13.jpg",
     "static/media/howWork.jpg": "/Nastya/static/media/howWork.3b8749b6f1ba2252d4f1.jpg",
@@ -14,11 +14,11 @@
     "static/media/gallery01.jpg": "/Nastya/static/media/gallery01.4abedc109c60636e9b58.jpg",
     "static/media/gallery02.jpg": "/Nastya/static/media/gallery02.f8e8260b178f4250530f.jpg",
     "index.html": "/Nastya/index.html",
-    "main.2bb7feac.css.map": "/Nastya/static/css/main.2bb7feac.css.map",
-    "main.155a5779.js.map": "/Nastya/static/js/main.155a5779.js.map"
+    "main.8d187863.css.map": "/Nastya/static/css/main.8d187863.css.map",
+    "main.3bbc1bd7.js.map": "/Nastya/static/js/main.3bbc1bd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bb7feac.css",
-    "static/js/main.155a5779.js"
+    "static/css/main.8d187863.css",
+    "static/js/main.3bbc1bd7.js"
   ]
 }
