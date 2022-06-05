@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Nastya/static/css/main.ad6d2213.css",
-    "main.js": "/Nastya/static/js/main.69ca2b13.js",
+    "main.css": "/Nastya/static/css/main.37a16fc3.css",
+    "main.js": "/Nastya/static/js/main.47f29714.js",
+    "static/media/three-border.png": "/Nastya/static/media/three-border.2de595501953edc9d995.png",
     "static/media/model-work01.jpg": "/Nastya/static/media/model-work01.abb59c87b13e0ab3f3c2.jpg",
     "static/media/model-work02.jpg": "/Nastya/static/media/model-work02.a3e7b1231502f50e9a13.jpg",
     "static/media/howWork.jpg": "/Nastya/static/media/howWork.3b8749b6f1ba2252d4f1.jpg",
@@ -13,12 +14,13 @@
     "static/media/model02.jpg": "/Nastya/static/media/model02.920eff5572e51ce5abfa.jpg",
     "static/media/gallery01.jpg": "/Nastya/static/media/gallery01.4abedc109c60636e9b58.jpg",
     "static/media/gallery02.jpg": "/Nastya/static/media/gallery02.f8e8260b178f4250530f.jpg",
+    "static/media/flatNastya.png": "/Nastya/static/media/flatNastya.773b17868bf6f27751d9.png",
     "index.html": "/Nastya/index.html",
-    "main.ad6d2213.css.map": "/Nastya/static/css/main.ad6d2213.css.map",
-    "main.69ca2b13.js.map": "/Nastya/static/js/main.69ca2b13.js.map"
+    "main.37a16fc3.css.map": "/Nastya/static/css/main.37a16fc3.css.map",
+    "main.47f29714.js.map": "/Nastya/static/js/main.47f29714.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad6d2213.css",
-    "static/js/main.69ca2b13.js"
+    "static/css/main.37a16fc3.css",
+    "static/js/main.47f29714.js"
   ]
 }
